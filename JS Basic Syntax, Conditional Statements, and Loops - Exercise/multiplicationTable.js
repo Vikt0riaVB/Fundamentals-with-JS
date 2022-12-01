@@ -6,4 +6,3 @@ function multiplicationTable(number){
         console.log(`${number} X ${i} = ${result}`);
     }
 }
-multiplicationTable(10)
