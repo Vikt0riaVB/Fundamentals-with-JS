@@ -13,8 +13,3 @@ function ages(age){
     console.log("elder");
    }
 }
-
-ages(20)
-ages(1)
-ages(100)
-ages(-1)
