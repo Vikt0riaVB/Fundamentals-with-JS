@@ -22,5 +22,3 @@ function login(array){
     });
     
 }
-
-login(['Acer','login','go','let me in','recA'])
