@@ -25,7 +25,3 @@ function party(guests){
     console.log(party.join("\n"))
 
 }
-party(['Allie is going!',
-'George is going!',
-'John is not going!',
-'George is not going!'])
