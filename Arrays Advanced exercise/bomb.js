@@ -23,5 +23,4 @@ function bomb(arr, arr1){
     console.log(arr.reduce(result));
 }
 
-bomb([1, 2, 2, 4, 2, 2, 2, 9],
-    [4, 2])
+60/100
